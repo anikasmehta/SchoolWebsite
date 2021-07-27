@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+    text-decoration-color: cornflowerblue;
+}
+
+#Contact {
+    width: 1500px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    text-align: center;
+    height: 200;
+}
+
+#VIBGYOR {
+    position: absolute;
+    height: 1000px;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+}
+
+h2 {
+    font-size: 90px;
+}
+
+#p {
+    text-decoration-color: azure;
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: slateblue;
+}
+
+#videos {
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: 'Dosis', sans-serif;
+    background-color: cornflowerblue;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 1.2;
+    font-family: monospace;
+}
